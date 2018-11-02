@@ -1,0 +1,21 @@
+[
+  {
+    "publicacionId": 1,
+    "id": 1,
+    "fecha": "12-sep-17",
+    "cuerpo": "que buena bailarina"
+  },
+  {
+    "publicacionId": 4,
+    "id": 5,
+    "fecha": "1-dic-17",
+    "cuerpo": "me gustaria ir a ese evento"
+  },
+
+ {
+    "publicacionId": 9,
+    "id": 8,
+    "fecha": "1-dic-18",
+    "cuerpo": "claro que tomare una foto en ese lugar"
+  }
+]

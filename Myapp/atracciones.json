@@ -1,0 +1,25 @@
+[
+{
+"id":8,
+"titulo":"hombre de acero",
+"descripcion":"visita el monumento del hombre de acer",
+"ubicacion":"c 29, cr 8",
+"imagen":""
+},
+
+{
+"id":6,
+"titulo":"rio muevete",
+"descripcion":"divierte con el parque en medio del rio sinu",
+"ubicacion":"av primera",
+"imagen":""
+},
+
+{
+"id":9,
+"titulo":"iglesia historica",
+"descripcion":"si eres catalico visita la iglesia mas antigua",
+"ubicacion":"centro de la ciudad",
+"imagen":""
+}
+]

@@ -1,0 +1,25 @@
+[
+{
+"id":2,
+"titulo":"fiesta",
+"descripcion":"fiesta por motivo de mi boda",
+"ubicacion":"c 29, cr 8",
+"fecha":"14-feb-19"
+},
+
+{
+"id":5,
+"titulo":"buena fiesta",
+"descripcion":"fiesta por motivo de mi cumpleaños",
+"ubicacion":"c 41, cr 5",
+"fecha":"17-dic-18"
+},
+
+{
+"id":5,
+"titulo":"gran congreso",
+"descripcion":"congreso de critica social ",
+"ubicacion":"centro de convenciones",
+"fecha":"20-nov-18"
+}
+]
